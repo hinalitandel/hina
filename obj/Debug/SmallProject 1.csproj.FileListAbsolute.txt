@@ -1,0 +1,11 @@
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\bin\Debug\SmallProject 1.exe.config
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\bin\Debug\SmallProject 1.exe
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\bin\Debug\SmallProject 1.pdb
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\obj\Debug\SmallProject 1.csproj.AssemblyReference.cache
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\obj\Debug\SmallProject 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\obj\Debug\SmallProject_1.Form1.resources
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\obj\Debug\SmallProject_1.Properties.Resources.resources
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\obj\Debug\SmallProject 1.csproj.GenerateResource.cache
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\obj\Debug\SmallProject 1.csproj.CoreCompileInputs.cache
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\obj\Debug\SmallProject 1.exe
+C:\Users\MANASHVI\source\repos\SmallProject 1\SmallProject 1\obj\Debug\SmallProject 1.pdb
